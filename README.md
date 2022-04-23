@@ -1,5 +1,5 @@
-# Create React App
+# Create Next App
 
 ```powershell
-npx create-react-app react-ts-app-example --template typescript
+npx create-next-app my-serverless --ts
 ```
